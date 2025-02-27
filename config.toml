@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://eliascxyz.netifly.app"
+base_url = "https://eliascxyz.netlify.app/"
 
 title = "eliascxyz"
 
