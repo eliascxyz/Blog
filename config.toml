@@ -35,7 +35,7 @@ highlight_theme = "monokai"
 theme = "toggle"
 favicon = "favicon.png"
 
-fancy_code = true
+fancy_code = false
 
 
 socials = [
@@ -49,6 +49,9 @@ menu = [
     { name = "/projects", url = "/projects", weight = 2 },
     { name = "/tags", url = "/tags", weight = 3 },
 ]
+
+repo_view = true
+repo_url = "https://github.com/eliascxyz/Blog/tree/master/content/"
 
 # See this for more options: https://github.com/not-matthias/apollo/blob/main/config.toml#L14
 
