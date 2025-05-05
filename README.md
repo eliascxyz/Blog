@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a00bc115-52d0-4af9-9975-5a908dd12bef/deploy-status)](https://app.netlify.com/sites/eliascxyz/deploys)
 
-# https://eliascxyz.netlify.app
+# https://eliascxyz.mythopia.xyz
 
 My Blog, built with [Zola](https://www.getzola.org/), using the [Apollo-Theme](https://github.com/not-matthias/apollo), hosted on [Netlify](https://www.netlify.com/)
 
